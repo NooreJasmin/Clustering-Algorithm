@@ -1,5 +1,5 @@
 # Praticed Programs
 Programs:
-    Cluster Alglorithm
-    NLP
+    Cluster Alglorithm,
+    NLP,
     Visualization of Bokeh and Ploty
